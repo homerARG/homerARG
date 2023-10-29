@@ -2,7 +2,7 @@
 
 ## mostly back-end dev, developing since 2018.
 
-- 🔭 Currently working at [kilomborp.net](kilomborp.net).
+- 🔭 Currently working at <a href="https://kilomborp.net" target="_blank">kilomborp.net</a>.
 - 🌱 Trying to learn a little more every day 🤣
 - 💬 You can contact me through my discord: homer.lua
 
