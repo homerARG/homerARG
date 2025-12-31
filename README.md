@@ -1,8 +1,22 @@
-# Hi there, I'm Homer. 👋 
+# 👋 Hey! I’m Homer
 
-## mostly back-end dev, developing since 2018.
+**Back-end developer** — building things since **2018**  
+Focused on game servers, tooling & scalable systems.
 
-- 🔭 Currently working at <a href="https://kilomborp.net" target="_blank">kilomborp.net</a>.
-- 🌱 Trying to learn a little more every day 🤣
-- 💬 You can contact me thru my discord: homer.lua
+---
 
+### 🧠 About me
+- 🔧 Mostly **back-end dev**, with a strong focus on **FiveM / Lua / Node.js**
+- 🧪 I like automating stuff, improving workflows and building dev tools
+- 🌱 Learning something new every day (sometimes the hard way 😅)
+
+---
+
+### 🏗️ Currently working on
+- ▪ **[Kilombo RP](https://kilomborp.net)** — FiveM Roleplay Server  
+- ▪ **[kilombo.life](https://kilombo.life)** — next-gen FiveM roleplay server focused on innovation, custom systems and a fresh RP experience
+
+---
+
+### 📬 Contact
+- 💬 **Discord:** `homer.lua`
