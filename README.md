@@ -9,13 +9,16 @@
 
 ## 🧠 About Me
 
-txt 💻 Back-end Developer since 2018 🎮 FiveM / Lua / Node.js specialist ⚙️ Focused on scalable systems & tooling 🧪 Always improving workflows & automation 
+💻 Back-end Developer since 2018
+🎮 FiveM / Lua / Node.js specialist
+⚙️ Focused on scalable systems & tooling
+🧪 Always improving workflows & automation 
 
 ---
 
 ## 🏗️ Current Projects
-
-- 🌐 Quasar Roleplay Network  
+  
+- 🟣 fivesoft.cc — Fivem Studio
 - 🇦🇷 Kilombo RP — https://kilomborp.net  
 - 🧬 Urben Life — Next-gen RP experience  
 
