@@ -44,12 +44,12 @@ txt 💻 Back-end Developer since 2018 🎮 FiveM / Lua / Node.js specialist ⚙
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HomerARG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomerARG&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=HomerARG&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -57,8 +57,8 @@ txt 💻 Back-end Developer since 2018 🎮 FiveM / Lua / Node.js specialist ⚙
 ## 🧷 Profile Badges
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/TU_USERNAME?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=HomerARG&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/HomerARG?label=Followers&style=flat&color=0e75b6" />
 </p>
 
 ---
