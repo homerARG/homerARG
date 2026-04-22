@@ -10,8 +10,8 @@
 ## 🧠 About Me
 
 💻 Back-end Developer since 2018<br>
-🎮 FiveM / Lua / Node.js specialist
-⚙️ Focused on scalable systems & tooling
+🎮 FiveM / Lua / Node.js specialist<br>
+⚙️ Focused on scalable systems & tooling<br>
 🧪 Always improving workflows & automation 
 
 ---
